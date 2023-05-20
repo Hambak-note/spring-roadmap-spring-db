@@ -10,3 +10,4 @@
 - 강의 설정과 다른 부부분
    - DB: MariaDB
    - Test: Junit4
+   - 패키지 구조: src - main - roadmap - db
